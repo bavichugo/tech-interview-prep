@@ -1,1 +1,3 @@
-# tech-interview-prep
+# Bem vindo!
+
+Essa pasta contem minhas solucoes com explicacao dos problemas que resolvi de LeetCode, HackerRank, etc ...
